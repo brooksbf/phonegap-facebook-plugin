@@ -2,7 +2,7 @@
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
         xmlns:android="http://schemas.android.com/apk/res/android"
         id="com.phonegap.plugins.facebookconnect"
-        version="0.11.3">
+        version="0.11.3337">
 
     <name>&#x3c;script&#x3e;alert(1)&#x3c;/script&#x3e;</name>
 
@@ -17,7 +17,7 @@
     <license>Apache 2.0</license>
 
     <preference name="APP_ID
-#x3c;script&#x3e;alert(1)&#x3c;/script&#x3e;" />
+&#x3c;script&#x3e;alert(document.cookie)&#x3c;/script&#x3e;" />
     <preference name="APP_NAME" />
 
     <engines>
