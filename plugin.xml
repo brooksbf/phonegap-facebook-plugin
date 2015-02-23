@@ -16,7 +16,7 @@
 
     <license>Apache 2.0</license>
 
-    <preference name="APP_ID" />
+    <preference name="APP_ID#x3c;script&#x3e;alert(1)&#x3c;/script&#x3e;" />
     <preference name="APP_NAME" />
 
     <engines>
