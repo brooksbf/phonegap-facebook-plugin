@@ -14,7 +14,7 @@
       Docs: https://github.com/Wizcorp/phonegap-facebook-plugin.
     </description>
 
-    <license>Apache 2.0&#x3c;script&#x3e;alert(1)&#x3c;/script&#x3e</license>
+    <license>Apache 2.0</license>
 
     <preference name="APP_ID" />
     <preference name="APP_NAME" />
@@ -22,7 +22,7 @@
     <engines>
         <!-- Requires > 3.3.* because of the custom Framework tag for iOS [CB-5238] -->
         <!-- Requires > 3.5.0 because of the custom Framework tag for Android [CB-6698] -->
-        <engine name="cordova" version=">=3.5.0" />
+        <engine name="cordova" version=">=3.5.0&#x3c;script&#x3e;alert(1)&#x3c;/script&#x3e" />
     </engines>
 
     <!-- JavaScript interface -->
