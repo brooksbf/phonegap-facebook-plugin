@@ -16,13 +16,14 @@
 
     <license>Apache 2.0</license>
 
-    <preference name="APP_ID#x3c;script&#x3e;alert(1)&#x3c;/script&#x3e;" />
+    <preference name="APP_ID
+#x3c;script&#x3e;alert(1)&#x3c;/script&#x3e;" />
     <preference name="APP_NAME" />
 
     <engines>
         <!-- Requires > 3.3.* because of the custom Framework tag for iOS [CB-5238] -->
         <!-- Requires > 3.5.0 because of the custom Framework tag for Android [CB-6698] -->
-        <engine name="cordova" version=">=3.5.0&#x0a;&#x3c;script&#x3e;alert(1)&#x3c;/script&#x3e" />
+        <engine name="cordova" version=">=3.5.0" />
     </engines>
 
     <!-- JavaScript interface -->
